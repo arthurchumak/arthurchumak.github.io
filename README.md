@@ -1,5 +1,7 @@
 # Arthur Chumak
 
+![](https://avatars3.githubusercontent.com/u/8324045?s=300)
+
 ## About me
 
 I'm interested in: web, design patterns, software architecture and testing.
