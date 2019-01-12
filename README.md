@@ -22,7 +22,7 @@ Used technologies: MySQL, Oracle, Redis, Ldap, Express.js, Vue.js, Socket.io, Je
 
 ## Education:
 
-### 2017 - Current time
+### 2017 - 2018
 
 Мaster's degree at [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
 
