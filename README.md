@@ -15,7 +15,9 @@ Also I'm trying yourself in education, checkout my [slides](https://arthurchumak
 
 Software developer at [Bamboo Agile](https://bambooagile.eu).
 
-Used technologies: MySQL, Oracle, Redis, Ldap, Express.js, Vue.js, Socket.io, Jest.
+Used technologies:
+- Back: TypeScript, Express.js, Socket.io, Jest, Sequelize, Knex, PM2 / MySQL, OracleDB, Redis, RabbitMQ, Ldap
+- Front: Vue.js + Vuex, Socket.io, Webpack
 
 ## Education:
 
