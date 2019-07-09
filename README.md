@@ -11,7 +11,7 @@ Also I'm trying yourself in education, checkout my [slides](https://arthurchumak
 
 ## Experience:
 
-### Feb 2017 - Current time
+### Feb 2017 - Jun 2019
 
 Software developer at [Bamboo Agile](https://bambooagile.eu).
 
