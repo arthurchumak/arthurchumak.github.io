@@ -2,7 +2,7 @@
 
 I'm interested in: web, design patterns, software architecture and testing.
 
-Also I'm trying yourself in education, checkout my [slides](https://arthurchumak.github.io/slides/).
+Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.github.io/slides/).
 
 [arthurchumak@gmail.com](mailto:arthurchumak@gmail.com)
 
