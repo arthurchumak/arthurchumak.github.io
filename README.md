@@ -10,9 +10,26 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 - **2013 - 2017** "Computer science" bachelor's degree at [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
 
+## Languages:
+
+- English: Upper-Intermediate
+
 ## Projects:
 
 # ScienceSoft
+
+### Agriculture (2019.08-2020.11)
+
+**Description**: The goal of the project is to collect metrics and automation af agriculture processes. Users could set up cultiware processes and track growing of plants.
+
+**Role**: Angular developer
+
+**Used stack**: Angular, RxJS, And design
+
+**Done by me**:
+- Started project from scratch
+- Created shared page layouts and components
+- Integration with backend
 
 ### Employees data aggregator (2019.07-2020.07)
 
