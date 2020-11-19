@@ -24,7 +24,7 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 **Role**: Angular developer
 
-**Used stack**: Angular, RxJS, And design, Typescript
+**Used stack**: Node.js, Angular, RxJS, And design, Typescript
 
 **Done by me**:
 - Started project from scratch
@@ -37,7 +37,7 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 **Role**: Fullstack developer
 
-**Used stack**: AWS (Lambda, DynamoDB, Cognito, S3, ...etc), Typescript, Express.js, Jest, Angular 8, Rx.js, Puppeteer
+**Used stack**: AWS (Lambda, DynamoDB, Cognito, S3, ...etc), Typescript, Node.js, Express.js, Jest, Angular 8, Rx.js, Puppeteer
 
 **Done by me**:
 - Creation of crud endpoints
@@ -55,7 +55,7 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 **Role**: Backend developer
 
-**Used stack**: Typescript, Express.js, Sequelize, MySQL, Jest, RabbitMQ
+**Used stack**: Typescript, Node.js, Express.js, Sequelize, MySQL, Jest, RabbitMQ
 
 **Done by me**:
 - A lot of crud modules, made in generic way using sequelize and TS
@@ -68,7 +68,7 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 **Role**: Fullstack developer
 
-**Used stack**: Express.js, Socket.io, MySQL / OracleDB, Redis, Ldap, Jest; Vue.js
+**Used stack**: Node.js, Express.js, Socket.io, MySQL / OracleDB, Redis, Ldap, Jest; Vue.js
 
 **Done by me**:
 - 3 frontend apps with common bundle
@@ -82,7 +82,7 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 **Role**: Fullstack developer
 
-**Used stack**: Express.js, MySQL, Redis, Ldap, AngularJS
+**Used stack**: Node.js, Express.js, MySQL, Redis, Ldap, AngularJS
 
 **Done by me**:
 - Admin panels
