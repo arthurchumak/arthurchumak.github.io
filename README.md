@@ -18,13 +18,13 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 # ScienceSoft
 
-### Agriculture (2019.08-2020.11)
+### Agriculture (2020.08-2020.11)
 
 **Description**: The goal of the project is to collect metrics and automation af agriculture processes. Users could set up cultiware processes and track growing of plants.
 
 **Role**: Angular developer
 
-**Used stack**: Angular, RxJS, And design
+**Used stack**: Angular, RxJS, And design, Typescript
 
 **Done by me**:
 - Started project from scratch
