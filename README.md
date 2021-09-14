@@ -1,10 +1,16 @@
 # Arthur Chumak
 
+I'm a fullstack javascript developer.
+I have a great experience in Node.js backend development, did a lot of interesting stuff from microservices to big solid api's, developer project architecture, did perfomance optimizations, fixed memory issues, migrated big datastores, implemented different levels of api testing. 
+As frontend i have expertise in Angular 2+, and Vue.js, i've created apps from scratch, optimized webpack, app render and network perfomance. Participated in custom component library development, did automated app testing.
 I'm interested in: web, design patterns, software architecture and testing.
-
-Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.github.io/slides/).
+Once I've tried to be a speaker, checkout my [slides](https://arthurchumak.github.io/slides/).
 
 [arthurchumak@gmail.com](mailto:arthurchumak@gmail.com)
+
+## Salary expectations:
+
+5k$
 
 ## Education:
 
@@ -18,7 +24,20 @@ Also I've tried to be a speaker, checkout my [slides](https://arthurchumak.githu
 
 # ScienceSoft
 
-### Agriculture (2020.08-2020.11)
+### Football fan club (2021.02-Now)
+
+**Description**: Fan site for famous football club. It allow to users get all info about club matches, team members, media content and etc.
+
+**Role**: Fullstack developer
+
+**Used stack**: AWS, Node.js, Angular, RxJS, Typescript
+
+**Done by me**:
+- Endpoints development with support of mobile team by Swagger api schema 
+- Data migrations between 3rd party services and AWS, about 10mlns record
+- Frontend team support
+
+### Agriculture (2020.08-2021.02)
 
 **Description**: The goal of the project is to collect metrics and automation af agriculture processes. Users could set up cultiware processes and track growing of plants.
 
