@@ -1,12 +1,15 @@
 # Arthur Chumak
 
-I'm a fullstack javascript developer.
-I have a great experience in Node.js backend development, did a lot of interesting stuff from microservices to big solid api's, developed project architecture, did perfomance optimizations, fixed memory issues, migrated big datastores, implemented different levels of api testing. 
-As frontend i have expertise in Angular 2+, and Vue.js, i've created apps from scratch, optimized webpack, app render and network perfomance. Participated in custom component library development, did automated app testing.
-I'm interested in: web, design patterns, software architecture and testing.
-Once I've tried to be a speaker, checkout my [slides](https://arthurchumak.github.io/slides/).
+Fullstack javascript developer with more than 5 years experience in development. Experienced in Node.js backend development, software architecture, perfomance optimizations, databases and unit testing. Experienced in Angular 2+, and Vue.js frontend development, automated app testing.
+
+Interested in: web, design patterns, software architecture and testing.
+
+## Contacts:
 
 [arthurchumak@gmail.com](mailto:arthurchumak@gmail.com)
+
+[+375259053628](tel:375259053628)
+
 
 ## Salary expectations:
 
