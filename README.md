@@ -10,11 +10,6 @@ Interested in: web, design patterns, software architecture and testing.
 
 [+375259053628](tel:375259053628)
 
-
-## Salary expectations:
-
-5k$
-
 ## Education:
 
 - **2013 - 2017** "Computer science" bachelor's degree at [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
