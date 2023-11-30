@@ -1,4 +1,4 @@
-![image](https://github.com/arthurchumak/arthurchumak.github.io/assets/8324045/a26e1d0d-1e3b-4a8c-8b17-77a632cedfe5)# Arthur Chumak
+# Arthur Chumak
 
 Started career as Fullstack javascript developer in 2017. Experienced in Node.js backend development, software architecture, perfomance and costs optimizations, databases and unit testing. Experienced in Angular 2+, and Vue.js frontend development, automated app testing.
 
