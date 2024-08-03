@@ -20,7 +20,7 @@ Interested in: design patterns, software architecture and testing.
 
 ## Projects:
 
-# Whitesharx (2022.04-2024-03)
+# Whitesharx (2022.04-2024-04)
 
 ### Chess game
 
@@ -33,8 +33,8 @@ Interested in: design patterns, software architecture and testing.
 **Done by me**:
 - More then 50% costs optimisation
 - Performance improvments
-- Lots of new mechanics
-- Lecagy support and refactoring
+- Impementing lots of new mechanics
+- Legacy codebase support and refactoring
 - CI configuration for linting and testing
 
 
