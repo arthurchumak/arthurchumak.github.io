@@ -20,9 +20,9 @@ Interested in: design patterns, software architecture and testing.
 
 ## Projects:
 
-# Whitesharx (2022.04-2024-04)
+# Whitesharx
 
-### Chess game
+### Chess game (2022.04-2024-04)
 
 **Description**: Game for chess enthusiasts with lots of fun mechanics
 
