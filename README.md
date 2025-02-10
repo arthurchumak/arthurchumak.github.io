@@ -49,13 +49,13 @@ Interested in: design patterns, software architecture and testing.
 **Used stack**: AWS, Node.js, Angular, RxJS, Typescript
 
 **Done by me**:
-- Endpoints development with support of mobile team by Swagger api schema 
+- Backend development with support of mobile team by Swagger api schema 
 - Data migrations between 3rd party services and AWS, about 10mlns record
 - Frontend team support
 
-### Agriculture (2020.08-2021.02)
+### MVP Agriculture (2020.08-2021.02)
 
-**Description**: The goal of the project is to collect metrics and automation af agriculture processes. Users could set up cultiware processes and track growing of plants.
+**Description**: The goal of the project is quick development of service to collect metrics and automation af agriculture processes. Users could set up cultiware processes and track growing of plants.
 
 **Role**: Angular developer
 
