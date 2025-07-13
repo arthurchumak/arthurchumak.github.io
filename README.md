@@ -4,25 +4,17 @@ Started career as Fullstack javascript developer in 2017. Experienced in Node.js
 
 Interested in: design patterns, software architecture and testing.
 
-## Contacts:
-
-[arthurchumak@gmail.com](mailto:arthurchumak@gmail.com)
-
+**Contacts:**
+[arthurchumak@gmail.com](mailto:arthurchumak@gmail.com), 
 [+375259053628](tel:375259053628)
 
-## Education:
+**Education:**  **2013 - 2017** "Computer science" bachelor's degree at [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
 
-- **2013 - 2017** "Computer science" bachelor's degree at [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
+**Languages:**  **English**: Upper-Intermediate
 
-## Languages:
+# Projects:
 
-- English: Upper-Intermediate
-
-## Projects:
-
-# Whitesharx
-
-### Chess game (2022.04-2024-04)
+## Whitesharx - Chess game (2022.04-2024-04)
 
 **Description**: Game for chess enthusiasts with lots of fun mechanics
 
@@ -38,7 +30,7 @@ Interested in: design patterns, software architecture and testing.
 - CI configuration for linting and testing
 
 
-# ScienceSoft
+## ScienceSoft
 
 ### Football fan club (2021.02-2022.01)
 
@@ -72,17 +64,16 @@ Interested in: design patterns, software architecture and testing.
 
 **Role**: Fullstack developer
 
-**Used stack**: AWS (Lambda, DynamoDB, Cognito, S3, ...etc), Typescript, Node.js, Express.js, Jest, Angular 8, Rx.js, Puppeteer
+**Used stack**: AWS (Lambda, DynamoDB, Cognito, S3, ...etc), Typescript, Node.js, Express.js, JWT, Jest, Angular 8, Rx.js, Puppeteer
 
 **Done by me**:
 - Creation of crud endpoints
 - Implemented data migrations
-- JWT auth implemented at front and back
 - Automated testing of critical flow using Puppeteer
-- Creating dump view components at shared package
+- Creating dump view components at shared angular npm package
 - Bugfixing angular apps
 
-# Bamboo Group
+## Bamboo Group
 
 ### LMS (2018.07-2019.07)
 
@@ -106,20 +97,16 @@ Interested in: design patterns, software architecture and testing.
 **Used stack**: Node.js, Express.js, Socket.io, MySQL / OracleDB, Redis, Ldap, Jest; Vue.js
 
 **Done by me**:
+- mvp
 - 3 frontend apps with common bundle
-- Websocket service with rooms
+- Websocket api with user rooms
 - Api interation with customer's DB and userstore
 - Unit testing core modules
 
-### Microservices (2017.01-2017.07)
+### CRM microservices (2017.01-2017.07)
 
-**Description**: 
+**Description**: - crm's development, 3rd party api integrations, legacy support microservices bugfixing
 
 **Role**: Fullstack developer
 
 **Used stack**: Node.js, Express.js, MySQL, Redis, Ldap, AngularJS
-
-**Done by me**:
-- Admin panels
-- A lot of Api integrations
-- Bugfixing microservices
