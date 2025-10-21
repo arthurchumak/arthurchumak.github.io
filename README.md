@@ -14,6 +14,12 @@ Interested in: design patterns, software architecture and testing.
 
 # Projects:
 
+## Freelance/pet-projects (2024.07-Current)
+
+**Role**: Fullstack developer
+
+**Used stack**: Node.js, Vue.js, Firebase, Google cloud
+
 ## Whitesharx - Chess game (2022.04-2024-04)
 
 **Description**: Game for chess enthusiasts with lots of fun mechanics
@@ -26,6 +32,7 @@ Interested in: design patterns, software architecture and testing.
 - More then 50% costs optimisation
 - Performance improvments
 - Impementing lots of new mechanics
+- Stripe subscriptions
 - Legacy codebase support and refactoring
 - CI configuration for linting and testing
 
