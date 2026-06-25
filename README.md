@@ -1,5 +1,7 @@
 # Arthur Chumak
 
+*Fullstack JS developer (Node.js, Angular, Vue, AWS, MongoDB)*
+
 Started career as Fullstack javascript developer in 2017. Experienced in Node.js backend development, software architecture, perfomance and costs optimizations, databases and unit testing. Experienced in Angular 2+, and Vue.js frontend development, automated app testing.
 
 Interested in: design patterns, software architecture and testing.
