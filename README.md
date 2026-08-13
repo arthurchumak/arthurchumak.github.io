@@ -2,7 +2,7 @@
 
 *Fullstack JS developer (Node.js, Angular, Vue, AWS, MongoDB)*
 
-Started career as Fullstack javascript developer in 2017. Experienced in Node.js backend development, software architecture, perfomance and costs optimizations, databases and unit testing. Experienced in Angular 2+, and Vue.js frontend development, automated app testing.
+Started career as Fullstack javascript developer in 2017. Experienced in Node.js backend development, software architecture, perfomance and costs optimizations, databases, Angular 2+, and Vue.js frontend development, automated app testing.
 
 Interested in: design patterns, software architecture and testing.
 
@@ -28,44 +28,27 @@ Interested in: design patterns, software architecture and testing.
 
 **Role**: Backend developer
 
-**Used stack**: AWS, Node.js, MongoDB, Redis, WS
+**Used stack**: Node.js, Jest, Puppeteer, Github actions, Jmeter
 
 **Done by me**:
-- More then 50% costs optimisation
-- Performance improvments
-- Impementing lots of new mechanics
-- Stripe subscriptions
-- Legacy codebase support and refactoring
-- CI configuration for linting and testing
+- Github CI configuration for linting and testing
+- Backend unit tests coverage
+- API testing and performance measure
+- Stripe payment api integration tests
 
 
 ## ScienceSoft
 
-### Football fan club (2021.02-2022.01)
+### Virtual hosting provider (2021.02-2022.01)
 
-**Description**: Fan site for famous football club. It allow to users get all info about club matches, team members, media content and etc.
+**Description**: Web Hosting Control Panel & Server Management Tools
 
-**Role**: Fullstack developer
+**Role**: Backend developer
 
-**Used stack**: AWS, Node.js, Angular, RxJS, Typescript
-
-**Done by me**:
-- Backend development with support of mobile team by Swagger api schema 
-- Data migrations between 3rd party services and AWS, about 10mlns record
-- Frontend team support
-
-### MVP Agriculture (2020.08-2021.02)
-
-**Description**: The goal of the project is quick development of service to collect metrics and automation af agriculture processes. Users could set up cultiware processes and track growing of plants.
-
-**Role**: Angular developer
-
-**Used stack**: Node.js, Angular, RxJS, And design, Typescript
+**Used stack**: Node.js, Jest
 
 **Done by me**:
-- Started project from scratch
-- Created shared page layouts and components
-- Integration with backend
+- Unit tests coverage increased from 20% to 90+% 
 
 ### Employees data aggregator (2019.07-2020.07)
 
@@ -73,14 +56,11 @@ Interested in: design patterns, software architecture and testing.
 
 **Role**: Fullstack developer
 
-**Used stack**: AWS (Lambda, DynamoDB, Cognito, S3, ...etc), Typescript, Node.js, Express.js, JWT, Jest, Angular 8, Rx.js, Puppeteer
+**Used stack**: Node.js, Jest, Angular 8, Puppeteer
 
 **Done by me**:
-- Creation of crud endpoints
-- Implemented data migrations
-- Automated testing of critical flow using Puppeteer
-- Creating dump view components at shared angular npm package
-- Bugfixing angular apps
+- Automated testing of critical flow (registration and payments) using Puppeteer
+- Unit tests for angular components
 
 ## Bamboo Group
 
@@ -90,12 +70,11 @@ Interested in: design patterns, software architecture and testing.
 
 **Role**: Backend developer
 
-**Used stack**: Typescript, Node.js, Express.js, Sequelize, MySQL, Jest, RabbitMQ
+**Used stack**: Node.js, Jest
 
 **Done by me**:
-- A lot of crud modules, made in generic way using sequelize and TS
 - Api client, that describe all api endpoints with TS, published as NPM package
-- E2E testing using NPM package from previous point
+- E2E api testing using that NPM package
 
 ### Paperless office (2017.07-2018.07)
 
@@ -103,19 +82,7 @@ Interested in: design patterns, software architecture and testing.
 
 **Role**: Fullstack developer
 
-**Used stack**: Node.js, Express.js, Socket.io, MySQL / OracleDB, Redis, Ldap, Jest; Vue.js
+**Used stack**: Node.js, Jest
 
 **Done by me**:
-- mvp
-- 3 frontend apps with common bundle
-- Websocket api with user rooms
-- Api interation with customer's DB and userstore
-- Unit testing core modules
-
-### CRM microservices (2017.01-2017.07)
-
-**Description**: - crm's development, 3rd party api integrations, legacy support microservices bugfixing
-
-**Role**: Fullstack developer
-
-**Used stack**: Node.js, Express.js, MySQL, Redis, Ldap, AngularJS
+- Unit testing core api modules
