@@ -1,22 +1,30 @@
 # Arthur Chumak
 
-*Fullstack JS developer (Node.js, Angular, Vue, AWS, MongoDB)*
+Senior Node.js Backend Engineer with 9+ years building scalable services on AWS and Node.js. Experienced in performance & cost optimization, real-time systems, large-scale data migrations, and production-grade testing. Strong focus on clean architecture, design patterns, and delivering measurable business impact.
 
-Started career as Fullstack javascript developer in 2017. Experienced in Node.js backend development, software architecture, perfomance and costs optimizations, databases and unit testing. Experienced in Angular 2+, and Vue.js frontend development, automated app testing.
-
-Interested in: design patterns, software architecture and testing.
-
-**Contacts:**
-[arthurchumak@gmail.com](mailto:arthurchumak@gmail.com), 
-[+375259053628](tel:375259053628)
+**Skills / Tech stack**:
+- Backend: Node.js, Express, AWS, MongoDB, SQL, WebSockets
+- Cloud & Infra: AWS (Lambda, DynamoDB, EC2), Firebase, Google Cloud
+- Databases: MongoDB, DynamoDB, MySQL, OracleDB, Redis
+- Testing: Jest, Puppeteer, E2E, unit testing
+- Frontend: Angular, Vue
+- Other: WebSockets, Stripe, CI/CD, RabbitMQ
 
 **Education:**  **2013 - 2017** "Computer science" bachelor's degree at [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
 
-**Languages:**  **English**: Upper-Intermediate
+**Languages:**
+- **English**: B2 Upper-Intermediate
+
+**Contacts:**
+- [linkedin](https://www.linkedin.com/in/arthur-chumak-3499b0126/)
+- [github](https://github.com/arthurchumak)
+- [arthurchumak@gmail.com](mailto:arthurchumak@gmail.com)
 
 # Projects:
 
 ## Freelance/pet-projects (2024.07-Current)
+
+**Description**: Game for chess enthusiasts with lots of fun mechanics
 
 **Role**: Fullstack developer
 
@@ -26,14 +34,15 @@ Interested in: design patterns, software architecture and testing.
 
 **Description**: Game for chess enthusiasts with lots of fun mechanics
 
-**Role**: Backend developer
+**Role**: Team lead backend developer
 
 **Used stack**: AWS, Node.js, MongoDB, Redis, WS
 
 **Done by me**:
-- More then 50% costs optimisation
-- Performance improvments
-- Impementing lots of new mechanics
+- 3 person team managment
+- More then 50% costs project optimisation
+- Performance improvements
+- Implementing lots of new mechanics
 - Stripe subscriptions
 - Legacy codebase support and refactoring
 - CI configuration for linting and testing
@@ -69,7 +78,7 @@ Interested in: design patterns, software architecture and testing.
 
 ### Employees data aggregator (2019.07-2020.07)
 
-**Description**: The goal of the project is to collect statistics about employed in deferent spheres, create a prediction model for salary, specialties in high demand, etc. and provide this information for a specific region. Customers can buy a subscription or one-time report.
+**Description**: The goal of the project is to collect statistics about employed in different spheres, create a prediction model for salary, specialties in high demand, etc. and provide this information for a specific region. Customers can buy a subscription or one-time report.
 
 **Role**: Fullstack developer
 
