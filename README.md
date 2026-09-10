@@ -13,118 +13,68 @@ Senior Node.js Backend Engineer with 9+ years building scalable services on AWS 
 **Education:**  **2013 - 2017** "Computer science" bachelor's degree at [Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
 
 **Languages:**
-- **English**: B2 Upper-Intermediate
+- English B2 Upper-Intermediate
 
 **Contacts:**
 - [linkedin](https://www.linkedin.com/in/arthur-chumak-3499b0126/)
 - [github](https://github.com/arthurchumak)
 - [arthurchumak@gmail.com](mailto:arthurchumak@gmail.com)
 
-# Projects:
+# Professional Experience:
 
-## Freelance/pet-projects (2024.07-Current)
+## Freelance / Pet Projects
+Fullstack Developer · Jul 2024 – Present · Node.js, Vue.js, Firebase, Google Cloud
+- Building fullstack applications with focus on scalable architecture, real-time features, and cost-efficient cloud infrastructure
 
-**Description**: Game for chess enthusiasts with lots of fun mechanics
+## Whitesharx – Chess Game
+Team Lead Backend Developer · Apr 2022 – Apr 2024 · AWS, Node.js, MongoDB, Redis, WebSockets
+- Led a 3-person backend team responsible for the core game services and infrastructure
+- Reduced infrastructure costs by more than 50% through architecture redesign, query optimization, and resource right-sizing
+- Significantly improved system performance and stability while delivering multiple new real-time game mechanics
+- Designed and implemented Stripe subscription billing and payment flows
+- Refactored and modernized a large legacy Node.js codebase, improving maintainability and reducing technical debt
+- Established CI pipelines for linting, testing, and automated quality gates
 
-**Role**: Fullstack developer
+## ScienceSoft – Football Fan Club
+Fullstack Developer · Feb 2021 – Jan 2022 · AWS, Node.js, Angular, TypeScript, RxJS
+- Designed and delivered backend APIs with Swagger/OpenAPI documentation that enabled seamless integration with the mobile
+team
+- Successfully migrated ~10 million records from third-party services to AWS with zero data loss and minimal downtime
+- Provided ongoing technical support and API guidance to the frontend team, accelerating feature delivery
 
-**Used stack**: Node.js, Vue.js, Firebase, Google cloud
+## ScienceSoft – MVP Agriculture
+Angular Developer (Fullstack contribution) · Aug 2020 – Feb 2021 · Node.js, Angular, RxJS, TypeScript, Ant Design
+- Bootstrapped the entire frontend application from scratch and established the core architecture
+- Designed and built a reusable component library and shared page layouts that accelerated development across the product
+- Integrated the frontend with backend services and delivered a working MVP for agricultural process automation and metrics
+collection
 
-## Whitesharx - Chess game (2022.04-2024-04)
+## ScienceSoft – Employees Data Aggregator
+Fullstack Developer · Jul 2019 – Jul 2020 · AWS (Lambda, DynamoDB, Cognito, S3), TypeScript, Node.js, Express, Angular 8,
+Puppeteer
+- Designed and implemented scalable CRUD APIs on AWS (Lambda + DynamoDB) for a multi-tenant analytics platform
+- Built and executed large-scale data migration pipelines
+- Developed end-to-end automated tests with Puppeteer covering critical user flows, significantly improving release confidence
+- Created and published reusable Angular view components as a shared internal npm package
+- Stabilized and fixed production issues across multiple Angular applications
 
-**Description**: Game for chess enthusiasts with lots of fun mechanics
+## Bamboo Group – Learning Management System (LMS)
+Backend Developer · Jul 2018 – Jul 2019 · TypeScript, Node.js, Express, Sequelize, MySQL, RabbitMQ, Jest
+- Designed a highly generic and reusable CRUD module system using Sequelize + TypeScript that drastically reduced
+development time for new features
+- Built and published a fully typed API client as an internal npm package, enabling type-safe consumption across teams
+- Implemented E2E test suites that leveraged the shared API client, improving overall test coverage and reliability
 
-**Role**: Team lead backend developer
-
-**Used stack**: AWS, Node.js, MongoDB, Redis, WS
-
-**Done by me**:
-- 3 person team managment
-- More then 50% costs project optimisation
-- Performance improvements
-- Implementing lots of new mechanics
-- Stripe subscriptions
-- Legacy codebase support and refactoring
-- CI configuration for linting and testing
+## Bamboo Group – Paperless Office
+Fullstack Developer · Jul 2017 – Jul 2018 · Node.js, Express, Socket.io, MySQL/OracleDB, Redis, LDAP, Vue.js, Jest
+- Delivered the MVP of an electronic document signing platform supporting interactive pen displays
+- Architected and built 3 frontend applications sharing a common codebase and design system
+- Designed real-time WebSocket API with room-based user sessions for collaborative document workflows
+- Integrated the system with customer databases and LDAP user stores
+- Established unit testing practices for core modules, improving code quality from the early stages
 
 
-## ScienceSoft
-
-### Football fan club (2021.02-2022.01)
-
-**Description**: Fan site for famous football club. It allow to users get all info about club matches, team members, media content and etc.
-
-**Role**: Fullstack developer
-
-**Used stack**: AWS, Node.js, Angular, RxJS, Typescript
-
-**Done by me**:
-- Backend development with support of mobile team by Swagger api schema 
-- Data migrations between 3rd party services and AWS, about 10mlns record
-- Frontend team support
-
-### MVP Agriculture (2020.08-2021.02)
-
-**Description**: The goal of the project is quick development of service to collect metrics and automation af agriculture processes. Users could set up cultiware processes and track growing of plants.
-
-**Role**: Angular developer
-
-**Used stack**: Node.js, Angular, RxJS, And design, Typescript
-
-**Done by me**:
-- Started project from scratch
-- Created shared page layouts and components
-- Integration with backend
-
-### Employees data aggregator (2019.07-2020.07)
-
-**Description**: The goal of the project is to collect statistics about employed in different spheres, create a prediction model for salary, specialties in high demand, etc. and provide this information for a specific region. Customers can buy a subscription or one-time report.
-
-**Role**: Fullstack developer
-
-**Used stack**: AWS (Lambda, DynamoDB, Cognito, S3, ...etc), Typescript, Node.js, Express.js, JWT, Jest, Angular 8, Rx.js, Puppeteer
-
-**Done by me**:
-- Creation of crud endpoints
-- Implemented data migrations
-- Automated testing of critical flow using Puppeteer
-- Creating dump view components at shared angular npm package
-- Bugfixing angular apps
-
-## Bamboo Group
-
-### LMS (2018.07-2019.07)
-
-**Description**: An extensive learning management system created to transform conventional learning and teaching into great interaction between institutions, educators, parents and learners. This LMS helps educational institutions to evaluate rather than just to grade. The solution builds trust and transparency in Education and stimulates learners to be actively involved into learning process
-
-**Role**: Backend developer
-
-**Used stack**: Typescript, Node.js, Express.js, Sequelize, MySQL, Jest, RabbitMQ
-
-**Done by me**:
-- A lot of crud modules, made in generic way using sequelize and TS
-- Api client, that describe all api endpoints with TS, published as NPM package
-- E2E testing using NPM package from previous point
-
-### Paperless office (2017.07-2018.07)
-
-**Description**: An e-docs web-app supporting the interactive pen display. The key function of this web application is electronic document signing. Customers can read and e-sign the e-docs at a sales point, using an interactive pen display. Then the dealer can send signed documents to the company server for further processing and storage
-
-**Role**: Fullstack developer
-
-**Used stack**: Node.js, Express.js, Socket.io, MySQL / OracleDB, Redis, Ldap, Jest; Vue.js
-
-**Done by me**:
-- mvp
-- 3 frontend apps with common bundle
-- Websocket api with user rooms
-- Api interation with customer's DB and userstore
-- Unit testing core modules
-
-### CRM microservices (2017.01-2017.07)
-
-**Description**: - crm's development, 3rd party api integrations, legacy support microservices bugfixing
-
-**Role**: Fullstack developer
-
-**Used stack**: Node.js, Express.js, MySQL, Redis, Ldap, AngularJS
+## CRM Microservices
+Fullstack Developer · Jan 2017 – Jul 2017 · Node.js, Express, MySQL, Redis, LDAP, AngularJS
+- Developed and maintained CRM microservices with third-party API integrations
+- Provided ongoing support and bug fixing for legacy services while ensuring system stability
