@@ -73,8 +73,7 @@ Fullstack Developer · Jul 2017 – Jul 2018 · Node.js, Express, Socket.io, MyS
 - Integrated the system with customer databases and LDAP user stores
 - Established unit testing practices for core modules, improving code quality from the early stages
 
-
-## CRM Microservices
+## Bamboo Group – CRM Microservices
 Fullstack Developer · Jan 2017 – Jul 2017 · Node.js, Express, MySQL, Redis, LDAP, AngularJS
 - Developed and maintained CRM microservices with third-party API integrations
 - Provided ongoing support and bug fixing for legacy services while ensuring system stability
