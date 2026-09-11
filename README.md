@@ -3,7 +3,7 @@
 Senior Node.js Backend Engineer with 9+ years building scalable services on AWS and Node.js. Experienced in performance & cost optimization, real-time systems, large-scale data migrations, and production-grade testing. Strong focus on clean architecture, design patterns, and delivering measurable business impact.
 
 **Skills / Tech stack**:
-- Backend: Node.js, Express, AWS, MongoDB, SQL, WebSockets
+- Backend: Node.js, Express, AWS, MongoDB, SQL, WebSockets, Docker
 - Cloud & Infra: AWS (Lambda, DynamoDB, EC2), Firebase, Google Cloud
 - Databases: MongoDB, DynamoDB, MySQL, OracleDB, Redis
 - Testing: Jest, Puppeteer, E2E, unit testing
@@ -27,7 +27,7 @@ Fullstack Developer · Jul 2024 – Present · Node.js, Vue.js, Firebase, Google
 - Building fullstack applications with focus on scalable architecture, real-time features, and cost-efficient cloud infrastructure
 
 ## Whitesharx – Chess Game
-Team Lead Backend Developer · Apr 2022 – Apr 2024 · AWS, Node.js, MongoDB, Redis, WebSockets
+Team Lead Backend Developer · Apr 2022 – Apr 2024 · AWS, Node.js, MongoDB, Redis, WebSockets, Docker
 - Led a 3-person backend team responsible for the core game services and infrastructure
 - Reduced infrastructure costs by more than 50% through architecture redesign, query optimization, and resource right-sizing
 - Significantly improved system performance and stability while delivering multiple new real-time game mechanics
@@ -50,7 +50,7 @@ Angular Developer (Fullstack contribution) · Aug 2020 – Feb 2021 · Node.js, 
 collection
 
 ## ScienceSoft – Employees Data Aggregator
-Fullstack Developer · Jul 2019 – Jul 2020 · AWS (Lambda, DynamoDB, Cognito, S3), TypeScript, Node.js, Express, Angular 8,
+Fullstack Developer · Jul 2019 – Jul 2020 · AWS (Lambda, DynamoDB, Cognito, S3), TypeScript, Node.js, Express, Docker, Angular 8,
 Puppeteer
 - Designed and implemented scalable CRUD APIs on AWS (Lambda + DynamoDB) for a multi-tenant analytics platform
 - Built and executed large-scale data migration pipelines
@@ -59,14 +59,14 @@ Puppeteer
 - Stabilized and fixed production issues across multiple Angular applications
 
 ## Bamboo Group – Learning Management System (LMS)
-Backend Developer · Jul 2018 – Jul 2019 · TypeScript, Node.js, Express, Sequelize, MySQL, RabbitMQ, Jest
+Backend Developer · Jul 2018 – Jul 2019 · TypeScript, Node.js, Express, Docker, Sequelize, MySQL, RabbitMQ, Jest
 - Designed a highly generic and reusable CRUD module system using Sequelize + TypeScript that drastically reduced
 development time for new features
 - Built and published a fully typed API client as an internal npm package, enabling type-safe consumption across teams
 - Implemented E2E test suites that leveraged the shared API client, improving overall test coverage and reliability
 
 ## Bamboo Group – Paperless Office
-Fullstack Developer · Jul 2017 – Jul 2018 · Node.js, Express, Socket.io, MySQL/OracleDB, Redis, LDAP, Vue.js, Jest
+Fullstack Developer · Jul 2017 – Jul 2018 · Node.js, Express, Socket.io, Docker, MySQL/OracleDB, Redis, LDAP, Vue.js, Jest
 - Delivered the MVP of an electronic document signing platform supporting interactive pen displays
 - Architected and built 3 frontend applications sharing a common codebase and design system
 - Designed real-time WebSocket API with room-based user sessions for collaborative document workflows
